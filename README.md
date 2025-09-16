@@ -47,7 +47,11 @@ Après avoir exporté les données de MetaEditor et les avoir importées dans un
 Courbe de Capital Initiale
 Voici la courbe de capital de notre modèle initial, avec ses paramètres prédéfinis sur la période totale. On observe une légère augmentation de 2018 à 2023, ce qui indique que la stratégie performe de manière stable. La poursuite de cette performance sur la période Out-of-Sample (après 2023) confirme que le modèle n'est pas sur-optimisé.
 
+[Courbe de capital de la stratégie](https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Equity%20Curve%20.jpg?raw=true)
+
 ![Courbe de capital de la stratégie](https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Equity%20Curve%20.jpg?raw=true)
+
+(https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Equity%20Curve%20.jpg?raw=true)
 
 - - -
 
