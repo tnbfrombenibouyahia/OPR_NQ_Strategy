@@ -53,16 +53,10 @@ Les résultats visuels montrent que cette approche est prometteuse, même si ell
 
 ![Rendements mensuels de l'optimisation](https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Testing%20Max%20Earning%20per%20month.png?raw=true)
 
-https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Testing%20Max%20Earning%20per%20month.png?raw=true
-
-
-
 
 L'impact sur la courbe de capital est évident : chaque courbe représente une variation de la stratégie avec un stop mensuel différent.
 
-<div align="center">
-<img src="https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Equity%20Curve%20per%20Monthly%20Max%20Earning.jpg?raw=true" alt="Courbes de capital par stop mensuel">
-</div>
+![Courbes de capital par stop mensuel](https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Equity%20Curve%20per%20Monthly%20Max%20Earning.png?raw=true)
 
 Les résultats de l'optimisation ont révélé que le stop mensuel de 3% de gain offre les meilleures métriques de performance, comme le montre le tableau de synthèse ci-dessous.
 
