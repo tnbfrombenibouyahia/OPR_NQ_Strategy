@@ -1,6 +1,6 @@
-#Stratégie de Trading sur l'US100
+# Stratégie de Trading sur l'US100
 
-###🎯 Objectif du Projet
+### 🎯 Objectif du Projet
 Ce repository présente une stratégie de trading algorithmique conçue pour l'indice boursier NASDAQ 100 (US100). La logique de cette stratégie, initialement développée en MQL5, repose sur un principe de day trading : la cassure de l'Open Price Range (OPR). Ce document détaille la méthodologie de test, la logique de trading, ainsi que les résultats du backtesting.
 
 📈 La Stratégie : Logique de l'OPR
