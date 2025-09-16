@@ -51,11 +51,11 @@ Une hypothèse a été testée : l'impact d'un stop mensuel automatique. L'objec
 
 Les résultats visuels montrent que cette approche est prometteuse, même si elle peut générer des mois de pertes. L'analyse des rendements montre une plus grande régularité des gains.
 
-<div align="center">
-<img src="https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Testing%20Max%20Earning%20per%20month.jpg?raw=true" alt="Rendements mensuels par stop">
-</div>
+![Rendements mensuels de l'optimisation](https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Testing%20Max%20Earning%20per%20month.png?raw=true)
 
-![Rendements mensuels par stop](https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Testing%20Max%20Earning%20per%20month.jpg?raw=true)
+https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Testing%20Max%20Earning%20per%20month.png?raw=true
+
+
 
 
 L'impact sur la courbe de capital est évident : chaque courbe représente une variation de la stratégie avec un stop mensuel différent.
