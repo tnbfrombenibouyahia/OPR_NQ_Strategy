@@ -1,6 +1,6 @@
-Stratégie de Trading sur l'US100
-Stratégie de cassure de l'Open Price Range (OPR)
-🎯 Objectif du Projet
+#Stratégie de Trading sur l'US100
+
+###🎯 Objectif du Projet
 Ce repository présente une stratégie de trading algorithmique conçue pour l'indice boursier NASDAQ 100 (US100). La logique de cette stratégie, initialement développée en MQL5, repose sur un principe de day trading : la cassure de l'Open Price Range (OPR). Ce document détaille la méthodologie de test, la logique de trading, ainsi que les résultats du backtesting.
 
 📈 La Stratégie : Logique de l'OPR
@@ -16,6 +16,8 @@ Vente (Short) : Un signal de vente est généré lorsque le prix de l'US100 cass
 </div>
 
 Ce graphique illustre la logique de la stratégie, avec l'OPR (rectangle gris foncé) et la cassure qui déclenche un signal de trading.
+
+- - - 
 
 🎰 Gestion du Risque
 Afin de protéger le capital, un stop-loss est systématiquement placé à l'opposé du niveau de cassure (au Low de l'OPR pour un achat, et au High pour une vente). La stratégie intègre également un système de break-even et de clôture partielle des positions pour sécuriser les profits et optimiser le profil de risque-rendement.
@@ -37,14 +39,16 @@ Objectif : Cette période a servi de "terrain inconnu" pour vérifier la robuste
 
 Les trois meilleures optimisations de la période In-Sample ont été soumises au test sur la période Out-of-Sample. Le modèle final a été sélectionné sur la base de métriques clés telles que le Sharpe Ratio, le Max Drawdown et le Profit Factor, assurant un équilibre optimal entre rentabilité et gestion du risque.
 
+- - -
+
 📈 Analyse des Résultats
 Après avoir exporté les données de MetaEditor et les avoir importées dans un environnement Python, une analyse plus approfondie a pu être menée.
 
 Courbe de Capital Initiale
 Voici la courbe de capital de notre modèle initial, avec ses paramètres prédéfinis sur la période totale. On observe une légère augmentation de 2018 à 2023, ce qui indique que la stratégie performe de manière stable. La poursuite de cette performance sur la période Out-of-Sample (après 2023) confirme que le modèle n'est pas sur-optimisé.
 
-<br>
-<br>
+
+- - -
 
 🕹️ Optimisation du Stop Mensuel
 Une hypothèse a été testée : l'impact d'un stop mensuel automatique. L'objectif était de déterminer si le fait de clôturer et sécuriser les profits une fois un certain seuil de gain mensuel atteint pouvait améliorer la stratégie.
