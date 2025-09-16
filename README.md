@@ -55,6 +55,9 @@ Les résultats visuels montrent que cette approche est prometteuse, même si ell
 <img src="https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Testing%20Max%20Earning%20per%20month.jpg?raw=true" alt="Rendements mensuels par stop">
 </div>
 
+![Rendements mensuels par stop](https://github.com/tnbfrombenibouyahia/OPR_NQ_Strategy/blob/main/Testing%20Max%20Earning%20per%20month.jpg?raw=true)
+
+
 L'impact sur la courbe de capital est évident : chaque courbe représente une variation de la stratégie avec un stop mensuel différent.
 
 <div align="center">
