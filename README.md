@@ -14,8 +14,7 @@ Achat (Long) : Un signal d'achat est généré lorsque le prix de l'US100 casse 
 
 Vente (Short) : Un signal de vente est généré lorsque le prix de l'US100 casse à la baisse le creux de l'OPR.
 
-
-
+![Exemple de setup de trading OPR](images/trading_setup.png)
 
 - - - 
 
